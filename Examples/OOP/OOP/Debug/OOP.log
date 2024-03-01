@@ -1,0 +1,4 @@
+﻿  OOP.cpp
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\OOP\OOP.cpp(104,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\OOP\OOP.cpp(105,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  OOP.vcxproj -> C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\OOP\Debug\OOP.exe

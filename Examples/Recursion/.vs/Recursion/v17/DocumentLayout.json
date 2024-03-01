@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Examples\\Recursion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D70DA9-FB92-4681-BC50-A5E20FC6CEF1}|Recursion.vcxproj|C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Examples\\Recursion\\Recursion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7D70DA9-FB92-4681-BC50-A5E20FC6CEF1}|Recursion.vcxproj|solutionrelative:Recursion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recursion.cpp",
+              "DocumentMoniker": "C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Examples\\Recursion\\Recursion.cpp",
+              "RelativeDocumentMoniker": "Recursion.cpp",
+              "ToolTip": "C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Examples\\Recursion\\Recursion.cpp",
+              "RelativeToolTip": "Recursion.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-15T18:17:32.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

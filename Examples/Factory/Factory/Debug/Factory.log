@@ -1,0 +1,9 @@
+﻿  Factory.cpp
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\Factory\Factory.cpp(20,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\Factory\Factory.cpp(20,46): warning C4244:         with
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\Factory\Factory.cpp(20,46): warning C4244:         [
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\Factory\Factory.cpp(20,46): warning C4244:             T=unsigned int
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\Factory\Factory.cpp(20,46): warning C4244:         ]
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\Factory\Factory.cpp(92,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\Factory\Factory.cpp(93,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Factory.vcxproj -> C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\Factory\Debug\Factory.exe

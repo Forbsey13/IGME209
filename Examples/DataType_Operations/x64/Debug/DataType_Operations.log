@@ -1,0 +1,26 @@
+﻿  DataType_Operations.cpp
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(7,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(7,9):
+  consider using '%zd' in the format string
+  
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(8,9):
+  consider using '%zd' in the format string
+  
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(9,9):
+  consider using '%zd' in the format string
+  
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(11,9):
+  consider using '%zd' in the format string
+  
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(12,9):
+  consider using '%zd' in the format string
+  
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\DataType_Operations.cpp(14,9):
+  consider using '%zd' in the format string
+  
+  DataType_Operations.vcxproj -> C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Examples\DataType_Operations\x64\Debug\DataType_Operations.exe
