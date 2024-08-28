@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Assignment\\A01-Will-Forbes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5C7D88-A005-4014-891F-120F2015DF9C}|A01-Will-Forbes.vcxproj|C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Assignment\\A01-Will-Forbes\\A01-Will-Forbes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A5C7D88-A005-4014-891F-120F2015DF9C}|A01-Will-Forbes.vcxproj|solutionrelative:A01-Will-Forbes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A01-Will-Forbes.cpp",
+              "DocumentMoniker": "C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Assignment\\A01-Will-Forbes\\A01-Will-Forbes.cpp",
+              "RelativeDocumentMoniker": "A01-Will-Forbes.cpp",
+              "ToolTip": "C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Assignment\\A01-Will-Forbes\\A01-Will-Forbes.cpp",
+              "RelativeToolTip": "A01-Will-Forbes.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T15:08:24.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Exercises\\E07-Will-Forbes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40ACE340-ACF6-4981-A6CC-7C93F76E50E4}|E07-Will-Forbes.vcxproj|C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Exercises\\E07-Will-Forbes\\E07-Will-Forbes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40ACE340-ACF6-4981-A6CC-7C93F76E50E4}|E07-Will-Forbes.vcxproj|solutionrelative:E07-Will-Forbes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E07-Will-Forbes.cpp",
+              "DocumentMoniker": "C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Exercises\\E07-Will-Forbes\\E07-Will-Forbes.cpp",
+              "RelativeDocumentMoniker": "E07-Will-Forbes.cpp",
+              "ToolTip": "C:\\Users\\wforb\\OneDrive\\Documents\\GitHub\\IGME209\\Exercises\\E07-Will-Forbes\\E07-Will-Forbes.cpp",
+              "RelativeToolTip": "E07-Will-Forbes.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-08T19:52:52.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

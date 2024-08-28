@@ -1,0 +1,41 @@
+﻿  AIController.cpp
+  Bullet.cpp
+  InformationYouCanGet.cpp
+  MyController.cpp
+  PlayerController.cpp
+  Tank.cpp
+  TankController.cpp
+  TankMap.cpp
+/Desktop/A04-template/A04-template/AIController.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\..\Desktop\A04-template\A04-template\AIController.cpp': No such file or directory
+  UpgradeItem.cpp
+  (compiling source file '/Desktop/A04-template/A04-template/AIController.cpp')
+  
+/Desktop/A04-template/A04-template/Bullet.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\..\Desktop\A04-template\A04-template\Bullet.cpp': No such file or directory
+  (compiling source file '/Desktop/A04-template/A04-template/Bullet.cpp')
+  
+/Desktop/A04-template/A04-template/InformationYouCanGet.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\..\Desktop\A04-template\A04-template\InformationYouCanGet.cpp': No such file or directory
+  (compiling source file '/Desktop/A04-template/A04-template/InformationYouCanGet.cpp')
+  
+/Desktop/A04-template/A04-template/MyController.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\..\Desktop\A04-template\A04-template\MyController.cpp': No such file or directory
+  (compiling source file '/Desktop/A04-template/A04-template/MyController.cpp')
+  
+/Desktop/A04-template/A04-template/PlayerController.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\..\Desktop\A04-template\A04-template\PlayerController.cpp': No such file or directory
+  (compiling source file '/Desktop/A04-template/A04-template/PlayerController.cpp')
+  
+/Desktop/A04-template/A04-template/Tank.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\..\Desktop\A04-template\A04-template\Tank.cpp': No such file or directory
+  (compiling source file '/Desktop/A04-template/A04-template/Tank.cpp')
+  
+/Desktop/A04-template/A04-template/TankController.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\..\Desktop\A04-template\A04-template\TankController.cpp': No such file or directory
+  (compiling source file '/Desktop/A04-template/A04-template/TankController.cpp')
+  
+/Desktop/A04-template/A04-template/TankMap.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\..\Desktop\A04-template\A04-template\TankMap.cpp': No such file or directory
+  (compiling source file '/Desktop/A04-template/A04-template/TankMap.cpp')
+  
+/Desktop/A04-template/A04-template/UpgradeItem.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\..\Desktop\A04-template\A04-template\UpgradeItem.cpp': No such file or directory
+  (compiling source file '/Desktop/A04-template/A04-template/UpgradeItem.cpp')
+  
+  ViewManager.cpp
+/Desktop/A04-template/A04-template/ViewManager.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\..\Desktop\A04-template\A04-template\ViewManager.cpp': No such file or directory
+  (compiling source file '/Desktop/A04-template/A04-template/ViewManager.cpp')
+  
+  Generating Code...

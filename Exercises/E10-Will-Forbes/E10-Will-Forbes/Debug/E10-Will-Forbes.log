@@ -1,0 +1,21 @@
+﻿  E10-Will-Forbes.cpp
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(248,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(248,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(253,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(253,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(258,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(258,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(262,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(262,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(263,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(263,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(264,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(264,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(276,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(276,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(281,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(281,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(286,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(286,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\E10-Will-Forbes.cpp(295,10): warning C4101: 'input': unreferenced local variable
+  E10-Will-Forbes.vcxproj -> C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E10-Will-Forbes\Debug\E10-Will-Forbes.exe

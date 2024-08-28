@@ -1,2 +1,1 @@
-﻿  E06-Will-Forbes.cpp
-  E06-Will-Forbes.vcxproj -> C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E06-Will-Forbes\Debug\E06-Will-Forbes.exe
+﻿LINK : fatal error LNK1104: cannot open file 'sfml-window-s-d.lib'

@@ -1,0 +1,11 @@
+﻿  E07-Will-Forbes.cpp
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E07-Will-Forbes\E07-Will-Forbes.cpp(5,17): error C2871: 'sf': a namespace with this name does not exist
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E07-Will-Forbes\E07-Will-Forbes.cpp(5,17): error C2065: 'sf': undeclared identifier
+C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E07-Will-Forbes\E07-Will-Forbes.cpp(157,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E07-Will-Forbes\E07-Will-Forbes.cpp(157,17):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E07-Will-Forbes\E07-Will-Forbes.cpp(157,17):
+  the missing variadic argument 2 is required by format string '%c'
+  C:\Users\wforb\OneDrive\Documents\GitHub\IGME209\Exercises\E07-Will-Forbes\E07-Will-Forbes.cpp(157,17):
+  this argument is used as a buffer size
+  
